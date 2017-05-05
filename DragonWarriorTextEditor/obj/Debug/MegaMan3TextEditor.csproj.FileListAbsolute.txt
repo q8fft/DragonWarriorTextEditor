@@ -1,0 +1,17 @@
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan3TextEditor\bin\Debug\MegaMan3TextEditor.exe.config
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan3TextEditor\bin\Debug\MegaMan3TextEditor.exe
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan3TextEditor\bin\Debug\MegaMan3TextEditor.pdb
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.AboutBox1.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.Form1.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.Form2_pg.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.Form3_wn.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.Form4_bi.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.Form5_dl.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.Form6_e.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.Form7_c.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.Form8_rl.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.Form9_rc.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.Properties.Resources.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.csproj.GenerateResource.Cache
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.exe
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.pdb
